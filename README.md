@@ -1,4 +1,4 @@
-# Find It Here(Movie)
+# Find It Here
 
 ## User Story
 
@@ -20,7 +20,7 @@ This webpage allows a user to search for a movie or tv show and have the luxury 
 
 ## Developers
 
-James J. Gault
+James J. Gault 
 
 Colin Mudie
 
