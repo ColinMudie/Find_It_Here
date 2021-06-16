@@ -12,9 +12,9 @@ This webpage allows a user to search for a movie or tv show and have the luxury 
 
 ## Preview
 
-![pagePreview] (<img src="./images/img.png" alt="pagePreview"/>)
+![pagePreview](./images/img.png)
 
-[pageLink] (url: <https://jjg1488.github.io/find-your-movie/>)
+[Live Link](https://jjg1488.github.io/find-your-movie/)
 
 ---
 
@@ -76,8 +76,6 @@ The take away from this project was to display how the face to face and incremen
 
 ## Credit
 
-[link] (<https://www.transparenttextures.com/cubes.html>)
-
 Background credit goes to:
 
-Cubes, by Mike Hearn
+[Cubes](<https://www.transparenttextures.com/cubes.html>), by Mike Hearn
